@@ -1,6 +1,6 @@
 <!-- Header banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:6272a4,100:bd93f9&height=200&section=header&text=Raouf%20Bouarrata&fontSize=52&fontColor=f8f8f2&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Algeria&descAlignY=58&descSize=18" alt="Raouf Bouarrata" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:282a36,50:6272a4,100:bd93f9&height=200&section=header&text=Abderraouf%20Bouarrata&fontSize=48&fontColor=f8f8f2&animation=fadeIn&fontAlignY=36&desc=Full%20Stack%20Developer%20%E2%80%A2%20Algeria&descAlignY=58&descSize=18" alt="Abderraouf Bouarrata" />
 </p>
 
 <!-- Animated typing line -->
@@ -23,6 +23,7 @@
 
 I'm **Raouf**, a Full Stack Developer from Algeria with more than four years of experience.
 
+- ⚛️ I build web apps with **React** and **Next.js**
 - 📱 I ship mobile apps with **React Native** and **Expo**
 - 🛠️ I build backends with **NestJS**, **Node.js** and **.NET**
 - 🖥️ I run a self-hosted **Proxmox** homelab, built around security and privacy
@@ -69,6 +70,14 @@ I'm **Raouf**, a Full Stack Developer from Algeria with more than four years of 
   <img src="https://img.shields.io/badge/Caddy-1F88C0?style=for-the-badge&logo=caddy&logoColor=white" alt="Caddy" height="48" />
 </p>
 </details>
+
+---
+
+## 🏅 Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/AWS_Certified-Cloud_Practitioner-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS Certified Cloud Practitioner" />
+</p>
 
 ---
 
